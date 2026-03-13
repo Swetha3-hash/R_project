@@ -35,7 +35,7 @@ Identify trends in smart device usage and apply insights to inform Bellabeat's m
 ---
 
 ## 📁 Files
-- `Bellabeat_casestudy1.r` — Full R script covering data cleaning, analysis, and visualisation
+- `bellabeat-fitbit-data-case-study-with-r.ipynb` — Full R script covering data cleaning, analysis, and visualisation
 
 ---
 
